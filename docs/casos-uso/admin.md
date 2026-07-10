@@ -10,7 +10,7 @@
 - [CU5 — Gestionar Hospitales](#cu5--gestionar-hospitales)
 - [CU6 — Gestionar Áreas de Trabajo](#cu6--gestionar-áreas-de-trabajo)
 - [CU7 — Registrar Doctor](#cu7--registrar-doctor)
-- [CU8 — Asignar Doctor a Hospital](#cu8--asignar-doctor-a-hospital)
+- [CU8 — Asigit statusgnar Doctor a Hospital](#cu8--asignar-doctor-a-hospital)
 - [CU9 — Asignar Área de Trabajo](#cu9--asignar-área-de-trabajo)
 - [CU10 — Modificar Datos del Doctor](#cu10--modificar-datos-del-doctor)
 - [CU14 — Gestionar Turnos Médicos](#cu14--gestionar-turnos-médicos)
